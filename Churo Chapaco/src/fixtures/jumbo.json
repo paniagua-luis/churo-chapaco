@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Disfruta en tu TV.",
+      "subTitle": "Mira en smart TVs, PlayStation, Xbox, Chromecast, Apple TV, reproductores Blu-ray y más.",
+      "image": "/images/misc/home-tv2.png",
+      "alt": "Carrusel de películas",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Descarga tus programas para verlos en movimiento.",
+      "subTitle": "Ahorra tus datos y mira todos tus favoritos sin conexión.",
+      "image": "/images/misc/home-mobile.jpg",
+      "alt": "Ver en el móvil",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Mira en todas partes.",
+      "subTitle": "Transmite películas y series ilimitadas en tu teléfono, tableta, portátil y TV sin pagar de más.",
+      "image": "/images/misc/home-imac.jpg",
+      "alt": "La Casa de Papel en Churo Chapaco",
+      "direction": "row"
+    }
+  ]
