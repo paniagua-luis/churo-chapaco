@@ -11,7 +11,6 @@
 
 Construir la base funcional de la plataforma: permitir que un usuario se registre, inicie sesión de forma segura, y al entrar visualice un catálogo de contenido organizado y atractivo, consumido en tiempo real desde la API de TMDB.
 
-> Al finalizar el sprint, el equipo debe poder demostrar: *registro → login → home con contenido destacado → catálogo navegable por categorías.*
 
 ---
 
