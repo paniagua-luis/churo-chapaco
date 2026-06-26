@@ -106,6 +106,37 @@ Cada historia se considera terminada cuando:
 
 ---
 
+## ✅ Definition of Done (DoD)
+
+Una Historia de Usuario se considera TERMINADA cuando:
+
+- [ ] Criterios de aceptación cumplidos y verificados
+- [ ] Código revisado por un compañero (Peer Review en PR)
+- [ ] Sin errores en consola del navegador
+- [ ] Componentes en PascalCase, funciones en camelCase
+- [ ] Probado en Chrome y en móvil
+- [ ] Commit con mensaje en formato feat/fix/docs
+- [ ] Issue cerrado en GitHub con checkboxes marcados
+
+## 🔍 Definition of Ready (DoR)
+
+Una Historia está lista para programar cuando:
+
+- [ ] Redactada en formato: Como [rol], quiero [acción], para [beneficio]
+- [ ] Criterios de aceptación definidos y verificables
+- [ ] Estimada en Story Points
+- [ ] Sin dependencias bloqueantes
+
+## 🤝 Acuerdos del Squad
+
+| Acuerdo | Detalle |
+|---------|---------|
+| Daily Scrum | Lunes y miércoles 20:00 hrs — En clases |
+| Flujo Git | develop → feature/HU-XX → PR → merge |
+| Revisión de PR | Rotativo entre los 4 integrantes |
+| Nomenclatura | PascalCase componentes, camelCase funciones |
+| Commits | feat/fix/docs + descripción en español |
+
 ## 6. Riesgos / Dependencias identificadas
 
 - HU-03 y HU-04 dependen de que la integración con la API de TMDB esté funcionando desde el inicio del sprint — se recomienda validarla en el primer día.
